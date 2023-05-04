@@ -1,0 +1,398 @@
+{
+
+    "chefs": [
+        {
+          "chef_id": 1,
+          "chef_picture": "https://panlasangpinoy.com/wp-content/uploads/2016/05/what-is-a-chef-de-cuisiine.jpg",
+          "chef_name": "Lina chen",
+          "chef_description": "A master of Sichuan cuisine with over 20 years of experience.",
+          "chef_experience": "20 years",
+          "recipe_number": 4,
+          "likes": 200,
+          "recipe_info": [
+            {
+              "recipe_name": "Kung Pao Chicken",
+              "ingredients": [
+                "Chicken breast",
+                "Soy sauce",
+                "Cornstarch",
+                "Dried red chili",
+                "Peanuts",
+                "Green onions"
+              ],
+              "cooking_method": "Marinate chicken in soy sauce and cornstarch. Stir-fry chicken with dried red chili and peanuts. Add green onions and serve.",
+              "rating": 4.5
+            },
+            {
+              "recipe_name": "Mapo Tofu",
+              "ingredients": [
+                "Soft tofu",
+                "Ground pork",
+                "Sichuan peppercorns",
+                "Doubanjiang paste",
+                "Garlic",
+                "Green onions"
+              ],
+              "cooking_method": "Brown pork with Sichuan peppercorns and garlic. Add doubanjiang paste and tofu. Cook until heated through. Garnish with green onions.",
+              "rating": 4.7
+            },
+            {
+              "recipe_name": "Hot and Sour Soup",
+              "ingredients": [
+                "Shiitake mushrooms",
+                "Firm tofu",
+                "Bamboo shoots",
+                "Eggs",
+                "Rice vinegar",
+                "White pepper"
+              ],
+              "cooking_method": "Soak shiitake mushrooms in hot water. Cut tofu and bamboo shoots into thin strips. Beat eggs. Bring broth to a boil. Add mushrooms, tofu, and bamboo shoots. Slowly pour in eggs while stirring. Add vinegar and pepper.",
+              "rating": 4.2
+            },
+            {
+              "recipe_name": "Dan Dan Noodles",
+              "ingredients": [
+                "Ground pork",
+                "Sichuan peppercorns",
+                "Soy sauce",
+                "Chili oil",
+                "Green onions",
+                "Noodles"
+              ],
+              "cooking_method": "Brown pork with Sichuan peppercorns. Mix soy sauce and chili oil. Cook noodles. Mix pork, soy sauce mixture, and noodles. Garnish with green onions.",
+              "rating": 4.3
+            }
+          ]
+        },
+
+
+        {
+            "chef_id": 2,
+            "chef_picture": "https://static5.depositphotos.com/1003434/514/i/600/depositphotos_5147838-stock-photo-attractive-smiling-cook.jpg",
+            "chef_name": "Quashi Chan",
+            "chef_description": "A master of Sichuan cuisine with over 20 years of experience.",
+            "chef_experience": "20 years",
+            "recipe_number": 4,
+            "likes": 100,
+            "recipe_info": [
+              {
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                  "Chicken breast",
+                  "Soy sauce",
+                  "Cornstarch",
+                  "Dried red chili",
+                  "Peanuts",
+                  "Green onions"
+                ],
+                "cooking_method": "Marinate chicken in soy sauce and cornstarch. Stir-fry chicken with dried red chili and peanuts. Add green onions and serve.",
+                "rating": 4.7
+              },
+              {
+                "recipe_name": "Mapo Tofu",
+                "ingredients": [
+                  "Soft tofu",
+                  "Ground pork",
+                  "Sichuan peppercorns",
+                  "Doubanjiang paste",
+                  "Garlic",
+                  "Green onions"
+                ],
+                "cooking_method": "Brown pork with Sichuan peppercorns and garlic. Add doubanjiang paste and tofu. Cook until heated through. Garnish with green onions.",
+                "rating": 4.5
+              },
+              {
+                "recipe_name": "Hot and Sour Soup",
+                "ingredients": [
+                  "Shiitake mushrooms",
+                  "Firm tofu",
+                  "Bamboo shoots",
+                  "Eggs",
+                  "Rice vinegar",
+                  "White pepper"
+                ],
+                "cooking_method": "Soak shiitake mushrooms in hot water. Cut tofu and bamboo shoots into thin strips. Beat eggs. Bring broth to a boil. Add mushrooms, tofu, and bamboo shoots. Slowly pour in eggs while stirring. Add vinegar and pepper.",
+                "rating": 4.3
+              },
+              {
+                "recipe_name": "Dan Dan Noodles",
+                "ingredients": [
+                  "Ground pork",
+                  "Sichuan peppercorns",
+                  "Soy sauce",
+                  "Chili oil",
+                  "Green onions",
+                  "Noodles"
+                ],
+                "cooking_method": "Brown pork with Sichuan peppercorns. Mix soy sauce and chili oil. Cook noodles. Mix pork, soy sauce mixture, and noodles. Garnish with green onions.",
+                "rating": 4.4
+              }
+            ]
+          },
+
+
+
+          {
+            "chef_id": 3,
+            "chef_picture": "https://media.istockphoto.com/id/1071183342/photo/master-chef.jpg?s=612x612&w=0&k=20&c=XxdWXKik2u1tEjgvHDquI7qX0QP5GZSSsNesw9WsJ6Y=",
+            "chef_name": "Ling Ling",
+            "chef_description": "A master of Sichuan cuisine with over 20 years of experience.",
+            "chef_experience": "20 years",
+            "recipe_number": 4,
+            "likes": 250,
+            "recipe_info": [
+              {
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                  "Chicken breast",
+                  "Soy sauce",
+                  "Cornstarch",
+                  "Dried red chili",
+                  "Peanuts",
+                  "Green onions"
+                ],
+                "cooking_method": "Marinate chicken in soy sauce and cornstarch. Stir-fry chicken with dried red chili and peanuts. Add green onions and serve.",
+                "rating": 4.5
+              },
+              {
+                "recipe_name": "Mapo Tofu",
+                "ingredients": [
+                  "Soft tofu",
+                  "Ground pork",
+                  "Sichuan peppercorns",
+                  "Doubanjiang paste",
+                  "Garlic",
+                  "Green onions"
+                ],
+                "cooking_method": "Brown pork with Sichuan peppercorns and garlic. Add doubanjiang paste and tofu. Cook until heated through. Garnish with green onions.",
+                "rating": 4.7
+              },
+              {
+                "recipe_name": "Hot and Sour Soup",
+                "ingredients": [
+                  "Shiitake mushrooms",
+                  "Firm tofu",
+                  "Bamboo shoots",
+                  "Eggs",
+                  "Rice vinegar",
+                  "White pepper"
+                ],
+                "cooking_method": "Soak shiitake mushrooms in hot water. Cut tofu and bamboo shoots into thin strips. Beat eggs. Bring broth to a boil. Add mushrooms, tofu, and bamboo shoots. Slowly pour in eggs while stirring. Add vinegar and pepper.",
+                "rating": 4.2
+              },
+              {
+                "recipe_name": "Dan Dan Noodles",
+                "ingredients": [
+                  "Ground pork",
+                  "Sichuan peppercorns",
+                  "Soy sauce",
+                  "Chili oil",
+                  "Green onions",
+                  "Noodles"
+                ],
+                "cooking_method": "Brown pork with Sichuan peppercorns. Mix soy sauce and chili oil. Cook noodles. Mix pork, soy sauce mixture, and noodles. Garnish with green onions.",
+                "rating": 4.8
+              }
+            ]
+          },
+
+
+          {
+            "chef_id": 4,
+            "chef_picture": "https://media.istockphoto.com/id/1166605357/photo/positive-professional-happy-man-chef-showing-tasty-ok-sign-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=UFtlEc7Vq0M06sSLyvTMv6and4rJY5Ufh4CFy6mephc=",
+            "chef_name": "John Smith",
+            "chef_description": "A master of Sichuan cuisine with over 20 years of experience.",
+            "chef_experience": "20 years",
+            "recipe_number": 4,
+            "likes": 200,
+            "recipe_info": [
+              {
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                  "Chicken breast",
+                  "Soy sauce",
+                  "Cornstarch",
+                  "Dried red chili",
+                  "Peanuts",
+                  "Green onions"
+                ],
+                "cooking_method": "Marinate chicken in soy sauce and cornstarch. Stir-fry chicken with dried red chili and peanuts. Add green onions and serve.",
+                "rating": 4.2
+              },
+              {
+                "recipe_name": "Mapo Tofu",
+                "ingredients": [
+                  "Soft tofu",
+                  "Ground pork",
+                  "Sichuan peppercorns",
+                  "Doubanjiang paste",
+                  "Garlic",
+                  "Green onions"
+                ],
+                "cooking_method": "Brown pork with Sichuan peppercorns and garlic. Add doubanjiang paste and tofu. Cook until heated through. Garnish with green onions.",
+                "rating": 4.6
+              },
+              {
+                "recipe_name": "Hot and Sour Soup",
+                "ingredients": [
+                  "Shiitake mushrooms",
+                  "Firm tofu",
+                  "Bamboo shoots",
+                  "Eggs",
+                  "Rice vinegar",
+                  "White pepper"
+                ],
+                "cooking_method": "Soak shiitake mushrooms in hot water. Cut tofu and bamboo shoots into thin strips. Beat eggs. Bring broth to a boil. Add mushrooms, tofu, and bamboo shoots. Slowly pour in eggs while stirring. Add vinegar and pepper.",
+                "rating": 4.2
+              },
+              {
+                "recipe_name": "Dan Dan Noodles",
+                "ingredients": [
+                  "Ground pork",
+                  "Sichuan peppercorns",
+                  "Soy sauce",
+                  "Chili oil",
+                  "Green onions",
+                  "Noodles"
+                ],
+                "cooking_method": "Brown pork with Sichuan peppercorns. Mix soy sauce and chili oil. Cook noodles. Mix pork, soy sauce mixture, and noodles. Garnish with green onions.",
+                "rating": 4.3
+              }
+            ]
+          },
+
+
+          {
+            "chef_id": 5,
+            "chef_picture": "https://media.istockphoto.com/id/477546297/photo/female-chef-isolated.jpg?s=612x612&w=0&k=20&c=NMKwiAJ7fVBGd87_PAzkKFLqF4eLmweC6gBzbBzEeBc=",
+            "chef_name": "Chen Chen",
+            "chef_description": "A master of Sichuan cuisine with over 20 years of experience.",
+            "chef_experience": "20 years",
+            "recipe_number": 4,
+            "likes": 200,
+            "recipe_info": [
+              {
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                  "Chicken breast",
+                  "Soy sauce",
+                  "Cornstarch",
+                  "Dried red chili",
+                  "Peanuts",
+                  "Green onions"
+                ],
+                "cooking_method": "Marinate chicken in soy sauce and cornstarch. Stir-fry chicken with dried red chili and peanuts. Add green onions and serve.",
+                "rating": 4.5
+              },
+              {
+                "recipe_name": "Mapo Tofu",
+                "ingredients": [
+                  "Soft tofu",
+                  "Ground pork",
+                  "Sichuan peppercorns",
+                  "Doubanjiang paste",
+                  "Garlic",
+                  "Green onions"
+                ],
+                "cooking_method": "Brown pork with Sichuan peppercorns and garlic. Add doubanjiang paste and tofu. Cook until heated through. Garnish with green onions.",
+                "rating": 4.7
+              },
+              {
+                "recipe_name": "Hot and Sour Soup",
+                "ingredients": [
+                  "Shiitake mushrooms",
+                  "Firm tofu",
+                  "Bamboo shoots",
+                  "Eggs",
+                  "Rice vinegar",
+                  "White pepper"
+                ],
+                "cooking_method": "Soak shiitake mushrooms in hot water. Cut tofu and bamboo shoots into thin strips. Beat eggs. Bring broth to a boil. Add mushrooms, tofu, and bamboo shoots. Slowly pour in eggs while stirring. Add vinegar and pepper.",
+                "rating": 4.2
+              },
+              {
+                "recipe_name": "Dan Dan Noodles",
+                "ingredients": [
+                  "Ground pork",
+                  "Sichuan peppercorns",
+                  "Soy sauce",
+                  "Chili oil",
+                  "Green onions",
+                  "Noodles"
+                ],
+                "cooking_method": "Brown pork with Sichuan peppercorns. Mix soy sauce and chili oil. Cook noodles. Mix pork, soy sauce mixture, and noodles. Garnish with green onions.",
+                "rating": 4.3
+              }
+            ]
+          },
+
+
+
+          {
+            "chef_id": 6,
+            "chef_picture": "https://www.shutterstock.com/image-photo/gorgeous-young-brunette-chef-woman-260nw-1902272830.jpg",
+            "chef_name": "Alice Smith",
+            "chef_description": "A master of Sichuan cuisine with over 20 years of experience.",
+            "chef_experience": "20 years",
+            "recipe_number": 4,
+            "likes": 200,
+            "recipe_info": [
+              {
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                  "Chicken breast",
+                  "Soy sauce",
+                  "Cornstarch",
+                  "Dried red chili",
+                  "Peanuts",
+                  "Green onions"
+                ],
+                "cooking_method": "Marinate chicken in soy sauce and cornstarch. Stir-fry chicken with dried red chili and peanuts. Add green onions and serve.",
+                "rating": 4.5
+              },
+              {
+                "recipe_name": "Mapo Tofu",
+                "ingredients": [
+                  "Soft tofu",
+                  "Ground pork",
+                  "Sichuan peppercorns",
+                  "Doubanjiang paste",
+                  "Garlic",
+                  "Green onions"
+                ],
+                "cooking_method": "Brown pork with Sichuan peppercorns and garlic. Add doubanjiang paste and tofu. Cook until heated through. Garnish with green onions.",
+                "rating": 4.7
+              },
+              {
+                "recipe_name": "Hot and Sour Soup",
+                "ingredients": [
+                  "Shiitake mushrooms",
+                  "Firm tofu",
+                  "Bamboo shoots",
+                  "Eggs",
+                  "Rice vinegar",
+                  "White pepper"
+                ],
+                "cooking_method": "Soak shiitake mushrooms in hot water. Cut tofu and bamboo shoots into thin strips. Beat eggs. Bring broth to a boil. Add mushrooms, tofu, and bamboo shoots. Slowly pour in eggs while stirring. Add vinegar and pepper.",
+                "rating": 4.2
+              },
+              {
+                "recipe_name": "Dan Dan Noodles",
+                "ingredients": [
+                  "Ground pork",
+                  "Sichuan peppercorns",
+                  "Soy sauce",
+                  "Chili oil",
+                  "Green onions",
+                  "Noodles"
+                ],
+                "cooking_method": "Brown pork with Sichuan peppercorns. Mix soy sauce and chili oil. Cook noodles. Mix pork, soy sauce mixture, and noodles. Garnish with green onions.",
+                "rating": 4.3
+              }
+            ]
+          }
+
+
+
+    ]
+}
